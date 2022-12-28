@@ -1,0 +1,15 @@
+D:\DOTW\bin\Debug\DOTW.exe.config
+D:\DOTW\bin\Debug\DOTW.exe
+D:\DOTW\bin\Debug\DOTW.pdb
+D:\DOTW\obj\Debug\DOTW.csproj.AssemblyReference.cache
+D:\DOTW\obj\Debug\MainWindow.g.cs
+D:\DOTW\obj\Debug\App.g.cs
+D:\DOTW\obj\Debug\DOTW_MarkupCompile.cache
+D:\DOTW\obj\Debug\DOTW_MarkupCompile.lref
+D:\DOTW\obj\Debug\MainWindow.baml
+D:\DOTW\obj\Debug\DOTW.g.resources
+D:\DOTW\obj\Debug\DOTW.Properties.Resources.resources
+D:\DOTW\obj\Debug\DOTW.csproj.GenerateResource.cache
+D:\DOTW\obj\Debug\DOTW.csproj.CoreCompileInputs.cache
+D:\DOTW\obj\Debug\DOTW.exe
+D:\DOTW\obj\Debug\DOTW.pdb
